@@ -1,12 +1,21 @@
 body {
-  margin-top: 100px;
-  margin-left: 150px;
-  margin-right: 50px;
   background-color: #8bb6fc;
 }
 
-p {
+#imagesWithTextContainer {
+  margin-left: 150px;
+  margin-right: 50px;
+}
+
+.imageWithText p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.56em;
   width: 230px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.56em;
 }
 
 .imageWithText {
@@ -26,4 +35,13 @@ p {
 
 #hamburger {
   margin-top: 180px;
+}
+
+#directions {
+  clear: both;
+  border: 5px dashed black;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
