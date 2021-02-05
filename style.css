@@ -1,0 +1,29 @@
+body {
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-right: 50px;
+  background-color: #8bb6fc;
+}
+
+p {
+  width: 230px;
+}
+
+.imageWithText {
+  margin: 10px;
+  float: left;
+}
+
+.imageWithText p {
+  text-align: center;
+  margin: 10px;
+}
+
+#train {
+  margin-left: 80px;
+  margin-top: 30px;
+}
+
+#hamburger {
+  margin-top: 180px;
+}
